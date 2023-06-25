@@ -61,7 +61,7 @@
 - 📄 Know about my experiences [https://drive.google.com/file/d/18Sh0GGCrdoChXTP4alJ7i42X1Bd5P6CZ/view?usp=sharing](https://drive.google.com/file/d/18Sh0GGCrdoChXTP4alJ7i42X1Bd5P6CZ/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
-<a href="https://shivendra-it.github.io/" target="blank"><img align="center" src="[https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/](https://icons8.com/icon/qTmKScB8hyZ5/coffee" alt="shivendra" height="30" width="40" /></a>
+<a href="https://shivendra-it.github.io/" target="blank"><img align="center" src="[https://icons8.com/icon/qTmKScB8hyZ5/coffee](https://icons8.com/icon/qTmKScB8hyZ5/coffee" alt="shivendra" height="30" width="40" /></a>
 <p align="left">
 <li><a href="https://www.linkedin.com/in/shivendraps15/" class="icon fa-linkedin"><span class="label">linkedin</span></a></li>
 								<li><a href="https://twitter.com/shivendraps3" class="icon fa-twitter"><span class="label">Twitter</span></a></li>
