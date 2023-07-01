@@ -6,43 +6,27 @@
 <h1 align="center">Tools Expert with</h1>
 
 <h3 align="center">Languages</h3>
--Java
--Go
--Python
+
+- Java
+- Go
+- Python
 
 <h3 align="center">Cloud Technologies</h3>
--Nutanix
--AWS
--AZURE
+
+- Nutanix
+- AWS
+- AZURE
 
 <h3 align="center">Frameworks & other technologies</h3>
--SpringBoot
--Django
--ReactJS
--Hypervisors
--OS and Kernel
--Docker and Kubernetes
--DynamoDB, Redshift, Elastic Search, Kibana, SQS, Athena, EMR, Lambda, Data Pipeline
--CI/CD (CircleCI, Github Ops, Prow)
 
-
-<h1 align="center">Interests/Expertise</h1>
-
-- Data Science
-- Data Analysis
-- EDA
-- Statical Data Analysis
-- Time Series Analysis
-- Data mining
-- NLP
-- Data wrangling
-- Image Classification
-- Machine learning
-- Deep Learning
-- All things analytics
-- Educating the masses on statistics and statistical thinking
-- Attitudinal measurement, including customer/employee satisfaction
-- Business
+- SpringBoot
+- Django
+- ReactJS
+- Hypervisors
+- OS and Kernel
+- Docker and Kubernetes
+- DynamoDB, Redshift, Elastic Search, Kibana, SQS, Athena, EMR, Lambda, Data Pipeline
+- CI/CD (CircleCI, Github Ops, Prow)
 
 
 <img align="right" alt="Data Scientist" width="400" src="https://indoanalytica.com/static/images/data-science-2.gif">
@@ -53,18 +37,18 @@
 
 <p align="left"> <a href="https://twitter.com/shivendraps3" target="blank"><img src="https://img.shields.io/twitter/follow/shivendraps3?logo=twitter&style=for-the-badge" alt="shivendraps3" /></a> </p>
 
-- 🌱 I’m currently learning **Data Science on AWS**
+- 🌱 I’m currently learning **CNCF initiatives, CAPI Kubernetes**
 
 - 📝 I regularly write articles on [https://shivendra-it.github.io/](https://shivendra-it.github.io/)
 
-- 💬 Ask me about **Python, SQL, Machine Learning, Deep Learning and AWS**
+- 💬 Ask me about **SAAS, Business, Cloud, Infrastructure**
 
 - 📫 How to reach me **shivendraps15@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/18Sh0GGCrdoChXTP4alJ7i42X1Bd5P6CZ/view?usp=sharing](https://drive.google.com/file/d/18Sh0GGCrdoChXTP4alJ7i42X1Bd5P6CZ/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
-<a href="https://shivendra-it.github.io/" target="blank"><img align="center" src="[https://icons8.com/icon/dlN23b953qvQ/waving-hand-light-skin-tone](https://icons8.com/icon/dlN23b953qvQ/waving-hand-light-skin-tone") alt="shivendra" height="30" width="40" /></a>
+ 👋 <a href="https://shivendra-it.github.io/" target="blank"> Hello It's me👋 </a>
 <p align="left">
 <li><a href="https://www.linkedin.com/in/shivendraps15/" class="icon fa-linkedin"><span class="label">linkedin</span></a></li>
 								<li><a href="https://twitter.com/shivendraps3" class="icon fa-twitter"><span class="label">Twitter</span></a></li>
