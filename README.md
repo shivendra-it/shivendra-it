@@ -1,27 +1,30 @@
 ![MasterHead](https://github.com/shivendra-it/shivendra-it/blob/main/Google_Cloud_DataAnalytics-Bannergif.gif)
 
 <h1 align="center">Hi 👋, I'm Shivendra</h1>
-<h3 align="left">Senior Full-stack developer with 7 years of experience in building innovative and user-friendly SAAS applications. Proficient in Java, Spring Boot, Django, JavaScript, Python, React, and AWS. Skilled in Kubernetes and experienced in building and scaling complex systems. A highly technical individual with a passion for staying up-to-date with the latest technologies and best practices. Always eager to learn new skills and improve my abilities.</h3>
+<h3 align="left">Experienced senior developer specializing in building innovative and user-friendly SAAS applications. Expertise in designing and scaling complex backend systems within the Social, Fintech, and E-Commerce domains. Proficient in Kubernetes and infrastructure development, staying abreast of the latest technologies and best practices. Committed to continuous learning and skill enhancement.</h3>
 
 <h1 align="center">Tools Expert with</h1>
 
-- Python
-- SQL
-- Numpy
-- Pandas
-- Matplotli and Seaborn
-- TensorFlow
-- Sklearn
-- PyTorch
-- CV
-- re and os
-- Jupyter NoteBook
-- Google Colab
-- VS code
-- Power BI
-- Tableau
-- AWS
-- MS SQL server
+<h3 align="center">Languages</h3>
+-Java
+-Go
+-Python
+
+<h3 align="center">Cloud Technologies</h3>
+-Nutanix
+-AWS
+-AZURE
+
+<h3 align="center">Frameworks & other technologies</h3>
+-SpringBoot
+-Django
+-ReactJS
+-Hypervisors
+-OS and Kernel
+-Docker and Kubernetes
+-DynamoDB, Redshift, Elastic Search, Kibana, SQS, Athena, EMR, Lambda, Data Pipeline
+-CI/CD (CircleCI, Github Ops, Prow)
+
 
 <h1 align="center">Interests/Expertise</h1>
 
